@@ -30,12 +30,6 @@ I love learning new technologies and building useful, beautiful applications.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thushiniakashi&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thushiniakashi&layout=compact&theme=radical" height="180" />
-</p>
 
 ---
 
