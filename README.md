@@ -12,7 +12,7 @@
 
 ### 🌟 About Me
 
-I'm a passionate and motivated software development student, currently studying at the **Institute of Java & Software Engineering (IJSE)**.  
+I'm a passionate and motivated software development student, currently studying at the **Institute of  Software Engineering (IJSE)**.  
 I love learning new technologies and building useful, beautiful applications.
 
 ---
